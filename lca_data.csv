@@ -1,0 +1,415 @@
+impact_category,powertrain,year,vehicle_stage,size,value,impact_value,unit
+GWP100a,BEV,2024,glider,Small,0,8842.58582310633,kg CO2-Eq.
+GWP100a,BEV,2024,powertrain,Small,0,2027.253965072694,kg CO2-Eq.
+GWP100a,BEV,2024,energy storage,Small,0,5907.628762156852,kg CO2-Eq.
+GWP100a,BEV,2024,energy chain,Small,0,0.002280868265432146,kg CO2-Eq.
+GWP100a,BEV,2024,maintenance,Small,0,0.009073516026965276,kg CO2-Eq.
+GWP100a,BEV,2024,EoL,Small,0,1094.5837812621867,kg CO2-Eq.
+GWP100a,BEV,2024,road,Small,0,0.018701849523231652,kg CO2-Eq.
+GWP100a,BEV,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+GWP100a,BEV,2024,direct - exhaust,Small,0,0.0,kg CO2-Eq.
+GWP100a,ICEV-p,2024,glider,Small,0,7485.988741384901,kg CO2-Eq.
+GWP100a,ICEV-p,2024,powertrain,Small,0,1782.771820591197,kg CO2-Eq.
+GWP100a,ICEV-p,2024,energy storage,Small,0,92.27155940619632,kg CO2-Eq.
+GWP100a,ICEV-p,2024,energy chain,Small,0,0.026864182438531895,kg CO2-Eq.
+GWP100a,ICEV-p,2024,maintenance,Small,0,0.007156811470572688,kg CO2-Eq.
+GWP100a,ICEV-p,2024,EoL,Small,0,737.0006382301436,kg CO2-Eq.
+GWP100a,ICEV-p,2024,road,Small,0,0.01633401401643484,kg CO2-Eq.
+GWP100a,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+GWP100a,ICEV-p,2024,direct - exhaust,Small,0,0.14266850793441332,kg CO2-Eq.
+freshwater ecotoxicity,BEV,2024,glider,Small,0,1997.4538904787908,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,powertrain,Small,0,752.7471320921953,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,energy storage,Small,0,1595.2957849409565,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,energy chain,Small,0,0.0010093866455475726,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,maintenance,Small,0,0.0009298837577560286,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,EoL,Small,0,823.7354795605393,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,road,Small,0,0.000475546525405651,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,direct - non-exhaust,Small,0,6.7293124131626135e-06,"kg 1,4-DC."
+freshwater ecotoxicity,BEV,2024,direct - exhaust,Small,0,0.0,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,glider,Small,0,1678.1225285259993,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,powertrain,Small,0,575.8705712179822,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,energy storage,Small,0,9.628737800983584,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,energy chain,Small,0,0.00019007508952316544,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,maintenance,Small,0,0.0007334535723560526,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,EoL,Small,0,822.9360368526712,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,road,Small,0,0.00044047623827956045,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,direct - non-exhaust,Small,0,7.74752237645894e-06,"kg 1,4-DC."
+freshwater ecotoxicity,ICEV-p,2024,direct - exhaust,Small,0,1.7178046711666025e-07,"kg 1,4-DC."
+human toxicity,BEV,2024,glider,Small,0,8347.983381906553,"kg 1,4-DC."
+human toxicity,BEV,2024,powertrain,Small,0,3943.1040592061076,"kg 1,4-DC."
+human toxicity,BEV,2024,energy storage,Small,0,10914.259558762766,"kg 1,4-DC."
+human toxicity,BEV,2024,energy chain,Small,0,0.006485253557599143,"kg 1,4-DC."
+human toxicity,BEV,2024,maintenance,Small,0,0.006210613056140999,"kg 1,4-DC."
+human toxicity,BEV,2024,EoL,Small,0,1069.0170764539967,"kg 1,4-DC."
+human toxicity,BEV,2024,road,Small,0,0.00801777702895106,"kg 1,4-DC."
+human toxicity,BEV,2024,direct - non-exhaust,Small,0,0.01093382201614024,"kg 1,4-DC."
+human toxicity,BEV,2024,direct - exhaust,Small,0,0.0,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,glider,Small,0,6942.572906148938,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,powertrain,Small,0,1765.833238619014,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,energy storage,Small,0,68.13200970940612,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,energy chain,Small,0,0.0046648326030232345,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,maintenance,Small,0,0.004898672865886205,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,EoL,Small,0,862.7820192605341,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,road,Small,0,0.007356034609011474,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,direct - non-exhaust,Small,0,0.013452450713030072,"kg 1,4-DC."
+human toxicity,ICEV-p,2024,direct - exhaust,Small,0,0.00692100186487852,"kg 1,4-DC."
+marine ecotoxicity,BEV,2024,glider,Small,0,1775.6832518291667,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,powertrain,Small,0,669.062739927663,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,energy storage,Small,0,1430.4546722199157,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,energy chain,Small,0,0.000906452467202217,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,maintenance,Small,0,0.0008196465646942577,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,EoL,Small,0,684.4942129697033,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,road,Small,0,0.00045214511793033915,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,direct - non-exhaust,Small,0,0.00019927872676691626,"kg 1,4-DB."
+marine ecotoxicity,BEV,2024,direct - exhaust,Small,0,0.0,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,glider,Small,0,1486.139033109986,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,powertrain,Small,0,495.18473664189565,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,energy storage,Small,0,8.639516293361465,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,energy chain,Small,0,0.00017946358345763416,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,maintenance,Small,0,0.0006465030665715725,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,EoL,Small,0,682.4592362841602,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,road,Small,0,0.0004166435547776465,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,direct - non-exhaust,Small,0,0.00024516523608469405,"kg 1,4-DB."
+marine ecotoxicity,ICEV-p,2024,direct - exhaust,Small,0,1.2178648501755322e-05,"kg 1,4-DB."
+terrestrial ecotoxicity,BEV,2024,glider,Small,0,2.3727996441965624,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,powertrain,Small,0,0.7145750155453644,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,energy storage,Small,0,2.4951331588209533,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,energy chain,Small,0,1.909700680556606e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,maintenance,Small,0,2.9858379568618445e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,EoL,Small,0,1.1465657741731483,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,road,Small,0,6.4186130103351136e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,direct - non-exhaust,Small,0,2.6403286879800556e-05,"kg 1,4-DC."
+terrestrial ecotoxicity,BEV,2024,direct - exhaust,Small,0,0.0,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,glider,Small,0,2.0466322198653177,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,powertrain,Small,0,0.4379830572938556,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,energy storage,Small,0,0.01532638835970684,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,energy chain,Small,0,5.9283566564284294e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,maintenance,Small,0,2.355104600623851e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,EoL,Small,0,1.0053421681497445,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,road,Small,0,5.428726083021332e-06,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,direct - non-exhaust,Small,0,3.243702420391581e-05,"kg 1,4-DC."
+terrestrial ecotoxicity,ICEV-p,2024,direct - exhaust,Small,0,5.755407652021021e-07,"kg 1,4-DC."
+metal depletion,BEV,2024,glider,Small,0,2386.3774843861065,kg Fe-Eq.
+metal depletion,BEV,2024,powertrain,Small,0,1434.072539602698,kg Fe-Eq.
+metal depletion,BEV,2024,energy storage,Small,0,6952.444546846532,kg Fe-Eq.
+metal depletion,BEV,2024,energy chain,Small,0,0.0018570302038659352,kg Fe-Eq.
+metal depletion,BEV,2024,maintenance,Small,0,0.0008361159337221161,kg Fe-Eq.
+metal depletion,BEV,2024,EoL,Small,0,31.155139303759004,kg Fe-Eq.
+metal depletion,BEV,2024,road,Small,0,0.0010504737611160913,kg Fe-Eq.
+metal depletion,BEV,2024,direct - non-exhaust,Small,0,0.0,kg Fe-Eq.
+metal depletion,BEV,2024,direct - exhaust,Small,0,0.0,kg Fe-Eq.
+metal depletion,ICEV-p,2024,glider,Small,0,2158.5021574087896,kg Fe-Eq.
+metal depletion,ICEV-p,2024,powertrain,Small,0,563.2403491081574,kg Fe-Eq.
+metal depletion,ICEV-p,2024,energy storage,Small,0,39.63734673635645,kg Fe-Eq.
+metal depletion,ICEV-p,2024,energy chain,Small,0,0.0005790164156646411,kg Fe-Eq.
+metal depletion,ICEV-p,2024,maintenance,Small,0,0.0006594934188034288,kg Fe-Eq.
+metal depletion,ICEV-p,2024,EoL,Small,0,4.029201815018091,kg Fe-Eq.
+metal depletion,ICEV-p,2024,road,Small,0,0.0009065739269413626,kg Fe-Eq.
+metal depletion,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg Fe-Eq.
+metal depletion,ICEV-p,2024,direct - exhaust,Small,0,0.0,kg Fe-Eq.
+agricultural land occupation,BEV,2024,glider,Small,0,506.36590546100797,square meter-year
+agricultural land occupation,BEV,2024,powertrain,Small,0,110.56071308887712,square meter-year
+agricultural land occupation,BEV,2024,energy storage,Small,0,344.12308126887285,square meter-year
+agricultural land occupation,BEV,2024,energy chain,Small,0,0.0028398819383234535,square meter-year
+agricultural land occupation,BEV,2024,maintenance,Small,0,0.000521588010655522,square meter-year
+agricultural land occupation,BEV,2024,EoL,Small,0,23.75805943103449,square meter-year
+agricultural land occupation,BEV,2024,road,Small,0,0.0011014815208577533,square meter-year
+agricultural land occupation,BEV,2024,direct - non-exhaust,Small,0,0.0,square meter-year
+agricultural land occupation,BEV,2024,direct - exhaust,Small,0,0.0,square meter-year
+agricultural land occupation,ICEV-p,2024,glider,Small,0,423.3555303296299,square meter-year
+agricultural land occupation,ICEV-p,2024,powertrain,Small,0,72.09966318889624,square meter-year
+agricultural land occupation,ICEV-p,2024,energy storage,Small,0,2.8342932133319505,square meter-year
+agricultural land occupation,ICEV-p,2024,energy chain,Small,0,0.00035299937431648146,square meter-year
+agricultural land occupation,ICEV-p,2024,maintenance,Small,0,0.0004114068952409329,square meter-year
+agricultural land occupation,ICEV-p,2024,EoL,Small,0,4.951333056750569,square meter-year
+agricultural land occupation,ICEV-p,2024,road,Small,0,0.001011904442758435,square meter-year
+agricultural land occupation,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,square meter-year
+agricultural land occupation,ICEV-p,2024,direct - exhaust,Small,0,0.0,square meter-year
+climate change,BEV,2024,glider,Small,0,8578.683896207453,kg CO2-Eq.
+climate change,BEV,2024,powertrain,Small,0,1948.9211330180901,kg CO2-Eq.
+climate change,BEV,2024,energy storage,Small,0,5631.568966000915,kg CO2-Eq.
+climate change,BEV,2024,energy chain,Small,0,0.0022171064305631285,kg CO2-Eq.
+climate change,BEV,2024,maintenance,Small,0,0.008940027459195752,kg CO2-Eq.
+climate change,BEV,2024,EoL,Small,0,1078.003969270668,kg CO2-Eq.
+climate change,BEV,2024,road,Small,0,0.01839469893493469,kg CO2-Eq.
+climate change,BEV,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+climate change,BEV,2024,direct - exhaust,Small,0,0.0,kg CO2-Eq.
+climate change,ICEV-p,2024,glider,Small,0,7256.895121577867,kg CO2-Eq.
+climate change,ICEV-p,2024,powertrain,Small,0,1728.8773409151042,kg CO2-Eq.
+climate change,ICEV-p,2024,energy storage,Small,0,88.70574236603366,kg CO2-Eq.
+climate change,ICEV-p,2024,energy chain,Small,0,0.02645287317051644,kg CO2-Eq.
+climate change,ICEV-p,2024,maintenance,Small,0,0.007051521248991102,kg CO2-Eq.
+climate change,ICEV-p,2024,EoL,Small,0,731.2906206792904,kg CO2-Eq.
+climate change,ICEV-p,2024,road,Small,0,0.0160721786793795,kg CO2-Eq.
+climate change,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+climate change,ICEV-p,2024,direct - exhaust,Small,0,0.14052550581842044,kg CO2-Eq.
+fossil depletion,BEV,2024,glider,Small,0,2531.684008018934,kg oil-Eq.
+fossil depletion,BEV,2024,powertrain,Small,0,540.5798758598091,kg oil-Eq.
+fossil depletion,BEV,2024,energy storage,Small,0,2288.463637605549,kg oil-Eq.
+fossil depletion,BEV,2024,energy chain,Small,0,0.0005095638872706379,kg oil-Eq.
+fossil depletion,BEV,2024,maintenance,Small,0,0.0038588749090472103,kg oil-Eq.
+fossil depletion,BEV,2024,EoL,Small,0,110.66775351920703,kg oil-Eq.
+fossil depletion,BEV,2024,road,Small,0,0.009097630474333289,kg oil-Eq.
+fossil depletion,BEV,2024,direct - non-exhaust,Small,0,0.0,kg oil-Eq.
+fossil depletion,BEV,2024,direct - exhaust,Small,0,0.0,kg oil-Eq.
+fossil depletion,ICEV-p,2024,glider,Small,0,2151.743111122126,kg oil-Eq.
+fossil depletion,ICEV-p,2024,powertrain,Small,0,497.82824762386423,kg oil-Eq.
+fossil depletion,ICEV-p,2024,energy storage,Small,0,69.73202574856492,kg oil-Eq.
+fossil depletion,ICEV-p,2024,energy chain,Small,0,0.05473201901183199,kg oil-Eq.
+fossil depletion,ICEV-p,2024,maintenance,Small,0,0.003043719780788337,kg oil-Eq.
+fossil depletion,ICEV-p,2024,EoL,Small,0,19.838812273737403,kg oil-Eq.
+fossil depletion,ICEV-p,2024,road,Small,0,0.007709538058369516,kg oil-Eq.
+fossil depletion,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg oil-Eq.
+fossil depletion,ICEV-p,2024,direct - exhaust,Small,0,0.0,kg oil-Eq.
+freshwater eutrophication,BEV,2024,glider,Small,0,5.0870750416710155,kg P-Eq.
+freshwater eutrophication,BEV,2024,powertrain,Small,0,1.9736657086025147,kg P-Eq.
+freshwater eutrophication,BEV,2024,energy storage,Small,0,4.710309726336777,kg P-Eq.
+freshwater eutrophication,BEV,2024,energy chain,Small,0,2.291196171026845e-06,kg P-Eq.
+freshwater eutrophication,BEV,2024,maintenance,Small,0,3.0695574705385057e-06,kg P-Eq.
+freshwater eutrophication,BEV,2024,EoL,Small,0,0.1867752179164178,kg P-Eq.
+freshwater eutrophication,BEV,2024,road,Small,0,8.467812866507e-06,kg P-Eq.
+freshwater eutrophication,BEV,2024,direct - non-exhaust,Small,0,0.0,kg P-Eq.
+freshwater eutrophication,BEV,2024,direct - exhaust,Small,0,0.0,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,glider,Small,0,4.250511414668236,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,powertrain,Small,0,0.8769563523093735,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,energy storage,Small,0,0.03337238326828456,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,energy chain,Small,0,1.646356888153571e-06,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,maintenance,Small,0,2.421139065544755e-06,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,EoL,Small,0,0.03398476083513229,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,road,Small,0,7.997811118510233e-06,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg P-Eq.
+freshwater eutrophication,ICEV-p,2024,direct - exhaust,Small,0,0.0,kg P-Eq.
+ionising radiation,BEV,2024,glider,Small,0,746.4190329665262,kg U235-Eq.
+ionising radiation,BEV,2024,powertrain,Small,0,204.4065906516412,kg U235-Eq.
+ionising radiation,BEV,2024,energy storage,Small,0,605.9638180119337,kg U235-Eq.
+ionising radiation,BEV,2024,energy chain,Small,0,0.0001483375738500679,kg U235-Eq.
+ionising radiation,BEV,2024,maintenance,Small,0,0.0016693242013888594,kg U235-Eq.
+ionising radiation,BEV,2024,EoL,Small,0,58.34207879523677,kg U235-Eq.
+ionising radiation,BEV,2024,road,Small,0,0.006247796750484842,kg U235-Eq.
+ionising radiation,BEV,2024,direct - non-exhaust,Small,0,0.0,kg U235-Eq.
+ionising radiation,BEV,2024,direct - exhaust,Small,0,0.0,kg U235-Eq.
+ionising radiation,ICEV-p,2024,glider,Small,0,630.9131660821397,kg U235-Eq.
+ionising radiation,ICEV-p,2024,powertrain,Small,0,125.32054003891054,kg U235-Eq.
+ionising radiation,ICEV-p,2024,energy storage,Small,0,7.262332327594586,kg U235-Eq.
+ionising radiation,ICEV-p,2024,energy chain,Small,0,0.009995475638096296,kg U235-Eq.
+ionising radiation,ICEV-p,2024,maintenance,Small,0,0.0013166933917457555,kg U235-Eq.
+ionising radiation,ICEV-p,2024,EoL,Small,0,9.606888566479483,kg U235-Eq.
+ionising radiation,ICEV-p,2024,road,Small,0,0.005915993268399528,kg U235-Eq.
+ionising radiation,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg U235-Eq.
+ionising radiation,ICEV-p,2024,direct - exhaust,Small,0,0.0,kg U235-Eq.
+marine eutrophication,BEV,2024,glider,Small,0,3.129403444803901,kg N-Eq.
+marine eutrophication,BEV,2024,powertrain,Small,0,2.8002089062338436,kg N-Eq.
+marine eutrophication,BEV,2024,energy storage,Small,0,1.8544605228794027,kg N-Eq.
+marine eutrophication,BEV,2024,energy chain,Small,0,8.775208137521917e-07,kg N-Eq.
+marine eutrophication,BEV,2024,maintenance,Small,0,2.058340408989697e-06,kg N-Eq.
+marine eutrophication,BEV,2024,EoL,Small,0,1.2381030839554392,kg N-Eq.
+marine eutrophication,BEV,2024,road,Small,0,6.45278438754147e-06,kg N-Eq.
+marine eutrophication,BEV,2024,direct - non-exhaust,Small,0,6.558659297908764e-09,kg N-Eq.
+marine eutrophication,BEV,2024,direct - exhaust,Small,0,0.0,kg N-Eq.
+marine eutrophication,ICEV-p,2024,glider,Small,0,2.6725000877852527,kg N-Eq.
+marine eutrophication,ICEV-p,2024,powertrain,Small,0,1.0385686223492487,kg N-Eq.
+marine eutrophication,ICEV-p,2024,energy storage,Small,0,0.016579293407296154,kg N-Eq.
+marine eutrophication,ICEV-p,2024,energy chain,Small,0,4.441024012575927e-06,kg N-Eq.
+marine eutrophication,ICEV-p,2024,maintenance,Small,0,1.6235331712228998e-06,kg N-Eq.
+marine eutrophication,ICEV-p,2024,EoL,Small,0,0.9344024302884615,kg N-Eq.
+marine eutrophication,ICEV-p,2024,road,Small,0,5.705546764330203e-06,kg N-Eq.
+marine eutrophication,ICEV-p,2024,direct - non-exhaust,Small,0,6.007905597754736e-09,kg N-Eq.
+marine eutrophication,ICEV-p,2024,direct - exhaust,Small,0,2.6325173899337667e-06,kg N-Eq.
+natural land transformation,BEV,2024,glider,Small,0,-1.3892596426248476,square meter
+natural land transformation,BEV,2024,powertrain,Small,0,-0.44410735378974897,square meter
+natural land transformation,BEV,2024,energy storage,Small,0,-1.3704737603054498,square meter
+natural land transformation,BEV,2024,energy chain,Small,0,-5.40498401881937e-07,square meter
+natural land transformation,BEV,2024,maintenance,Small,0,-4.2504375745705614e-07,square meter
+natural land transformation,BEV,2024,EoL,Small,0,-0.05172605060468973,square meter
+natural land transformation,BEV,2024,road,Small,0,-1.1172536475114003e-05,square meter
+natural land transformation,BEV,2024,direct - non-exhaust,Small,0,0.0,square meter
+natural land transformation,BEV,2024,direct - exhaust,Small,0,0.0,square meter
+natural land transformation,ICEV-p,2024,glider,Small,0,-1.1258023391917826,square meter
+natural land transformation,ICEV-p,2024,powertrain,Small,0,-0.35588565785109816,square meter
+natural land transformation,ICEV-p,2024,energy storage,Small,0,-0.008632942572353615,square meter
+natural land transformation,ICEV-p,2024,energy chain,Small,0,-5.606941584000624e-07,square meter
+natural land transformation,ICEV-p,2024,maintenance,Small,0,-3.3525681001980736e-07,square meter
+natural land transformation,ICEV-p,2024,EoL,Small,0,-0.009922263384892537,square meter
+natural land transformation,ICEV-p,2024,road,Small,0,-9.101032334190143e-06,square meter
+natural land transformation,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,square meter
+natural land transformation,ICEV-p,2024,direct - exhaust,Small,0,0.0,square meter
+ozone depletion,BEV,2024,glider,Small,0,0.0004411308106141684,kg CFC-11.
+ozone depletion,BEV,2024,powertrain,Small,0,0.00012163439474013855,kg CFC-11.
+ozone depletion,BEV,2024,energy storage,Small,0,0.0003938588759549641,kg CFC-11.
+ozone depletion,BEV,2024,energy chain,Small,0,1.8998165714401514e-10,kg CFC-11.
+ozone depletion,BEV,2024,maintenance,Small,0,1.3095680258689415e-09,kg CFC-11.
+ozone depletion,BEV,2024,EoL,Small,0,6.311102868094328e-05,kg CFC-11.
+ozone depletion,BEV,2024,road,Small,0,3.4591508249233347e-09,kg CFC-11.
+ozone depletion,BEV,2024,direct - non-exhaust,Small,0,0.0,kg CFC-11.
+ozone depletion,BEV,2024,direct - exhaust,Small,0,0.0,kg CFC-11.
+ozone depletion,ICEV-p,2024,glider,Small,0,0.0003731224395858238,kg CFC-11.
+ozone depletion,ICEV-p,2024,powertrain,Small,0,0.0001284198071425162,kg CFC-11.
+ozone depletion,ICEV-p,2024,energy storage,Small,0,3.166772233787891e-06,kg CFC-11.
+ozone depletion,ICEV-p,2024,energy chain,Small,0,2.939125116263748e-08,kg CFC-11.
+ozone depletion,ICEV-p,2024,maintenance,Small,0,1.032932706701653e-09,kg CFC-11.
+ozone depletion,ICEV-p,2024,EoL,Small,0,3.053993235130294e-06,kg CFC-11.
+ozone depletion,ICEV-p,2024,road,Small,0,2.845290129436289e-09,kg CFC-11.
+ozone depletion,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg CFC-11.
+ozone depletion,ICEV-p,2024,direct - exhaust,Small,0,5.981107816112842e-07,kg CFC-11.
+particulate matter formation,BEV,2024,glider,Small,0,23.511732527932764,kg PM10-Eq.
+particulate matter formation,BEV,2024,powertrain,Small,0,7.166846108637436,kg PM10-Eq.
+particulate matter formation,BEV,2024,energy storage,Small,0,19.516513753092426,kg PM10-Eq.
+particulate matter formation,BEV,2024,energy chain,Small,0,1.2331798498078467e-05,kg PM10-Eq.
+particulate matter formation,BEV,2024,maintenance,Small,0,1.2409626024583847e-05,kg PM10-Eq.
+particulate matter formation,BEV,2024,EoL,Small,0,1.9937666902213236,kg PM10-Eq.
+particulate matter formation,BEV,2024,road,Small,0,8.03096757825469e-05,kg PM10-Eq.
+particulate matter formation,BEV,2024,direct - non-exhaust,Small,0,1.9510597126288067e-05,kg PM10-Eq.
+particulate matter formation,BEV,2024,direct - exhaust,Small,0,0.0,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,glider,Small,0,20.10096547494279,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,powertrain,Small,0,5.638421448580667,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,energy storage,Small,0,0.16623095893007514,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,energy chain,Small,0,7.220630069635804e-05,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,maintenance,Small,0,9.7881960658159e-06,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,EoL,Small,0,0.844318551658865,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,road,Small,0,6.737302649507226e-05,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,direct - non-exhaust,Small,0,2.018460546107438e-05,kg PM10-Eq.
+particulate matter formation,ICEV-p,2024,direct - exhaust,Small,0,1.4574699195679366e-05,kg PM10-Eq.
+photochemical oxidant formation,BEV,2024,glider,Small,0,37.40032504200892,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,powertrain,Small,0,9.416907597672754,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,energy storage,Small,0,23.123181851265826,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,energy chain,Small,0,1.4371117638145685e-05,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,maintenance,Small,0,3.0713960187051073e-05,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,EoL,Small,0,1.636950095017888,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,road,Small,0,0.00015734689380546225,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,direct - non-exhaust,Small,0,2.769915825956057e-08,kg NMVOC-.
+photochemical oxidant formation,BEV,2024,direct - exhaust,Small,0,0.0,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,glider,Small,0,31.932815353700775,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,powertrain,Small,0,8.709734247332015,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,energy storage,Small,0,0.33704397026863275,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,energy chain,Small,0,0.00015833821506975655,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,maintenance,Small,0,2.4225892357509716e-05,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,EoL,Small,0,0.557768757885817,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,road,Small,0,0.0001312834318989997,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,direct - non-exhaust,Small,0,3.3903379131592644e-08,kg NMVOC-.
+photochemical oxidant formation,ICEV-p,2024,direct - exhaust,Small,0,0.0002047351480559941,kg NMVOC-.
+terrestrial acidification,BEV,2024,glider,Small,0,40.93287214626511,kg SO2-Eq.
+terrestrial acidification,BEV,2024,powertrain,Small,0,17.1093379828015,kg SO2-Eq.
+terrestrial acidification,BEV,2024,energy storage,Small,0,52.46326971293024,kg SO2-Eq.
+terrestrial acidification,BEV,2024,energy chain,Small,0,2.7045245362021647e-05,kg SO2-Eq.
+terrestrial acidification,BEV,2024,maintenance,Small,0,3.0724490085806145e-05,kg SO2-Eq.
+terrestrial acidification,BEV,2024,EoL,Small,0,2.501732128484516,kg SO2-Eq.
+terrestrial acidification,BEV,2024,road,Small,0,9.868918423415287e-05,kg SO2-Eq.
+terrestrial acidification,BEV,2024,direct - non-exhaust,Small,0,3.415432503079592e-07,kg SO2-Eq.
+terrestrial acidification,BEV,2024,direct - exhaust,Small,0,0.0,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,glider,Small,0,33.88185828550171,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,powertrain,Small,0,13.417283572444678,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,energy storage,Small,0,0.45122241101400556,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,energy chain,Small,0,0.00025016287544349494,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,maintenance,Small,0,2.423419790300832e-05,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,EoL,Small,0,0.44027915610725143,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,road,Small,0,8.516940066215945e-05,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,direct - non-exhaust,Small,0,4.180441223707745e-07,kg SO2-Eq.
+terrestrial acidification,ICEV-p,2024,direct - exhaust,Small,0,4.584395172738564e-05,kg SO2-Eq.
+urban land occupation,BEV,2024,glider,Small,0,112.62462321679718,square meter-year
+urban land occupation,BEV,2024,powertrain,Small,0,42.32346227417515,square meter-year
+urban land occupation,BEV,2024,energy storage,Small,0,138.61084730569098,square meter-year
+urban land occupation,BEV,2024,energy chain,Small,0,9.155896591547915e-05,square meter-year
+urban land occupation,BEV,2024,maintenance,Small,0,7.121778560914891e-05,square meter-year
+urban land occupation,BEV,2024,EoL,Small,0,6.243490309804065,square meter-year
+urban land occupation,BEV,2024,road,Small,0,0.00806132414206035,square meter-year
+urban land occupation,BEV,2024,direct - non-exhaust,Small,0,0.0,square meter-year
+urban land occupation,BEV,2024,direct - exhaust,Small,0,0.0,square meter-year
+urban land occupation,ICEV-p,2024,glider,Small,0,95.9859826820881,square meter-year
+urban land occupation,ICEV-p,2024,powertrain,Small,0,24.779878440181232,square meter-year
+urban land occupation,ICEV-p,2024,energy storage,Small,0,0.9002911257112,square meter-year
+urban land occupation,ICEV-p,2024,energy chain,Small,0,0.00016636411586019907,square meter-year
+urban land occupation,ICEV-p,2024,maintenance,Small,0,5.617362260028044e-05,square meter-year
+urban land occupation,ICEV-p,2024,EoL,Small,0,1.2627836001249046,square meter-year
+urban land occupation,ICEV-p,2024,road,Small,0,0.006502303431731569,square meter-year
+urban land occupation,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,square meter-year
+urban land occupation,ICEV-p,2024,direct - exhaust,Small,0,0.0,square meter-year
+water depletion,BEV,2024,glider,Small,0,85.80454969897232,m3 water-.
+water depletion,BEV,2024,powertrain,Small,0,18.46334658456218,m3 water-.
+water depletion,BEV,2024,energy storage,Small,0,213.21357004815204,m3 water-.
+water depletion,BEV,2024,energy chain,Small,0,1.89992561491181e-05,m3 water-.
+water depletion,BEV,2024,maintenance,Small,0,9.410169129406035e-05,m3 water-.
+water depletion,BEV,2024,EoL,Small,0,5.988757100030269,m3 water-.
+water depletion,BEV,2024,road,Small,0,0.00025165176406384646,m3 water-.
+water depletion,BEV,2024,direct - non-exhaust,Small,0,0.0,m3 water-.
+water depletion,BEV,2024,direct - exhaust,Small,0,0.0,m3 water-.
+water depletion,ICEV-p,2024,glider,Small,0,73.22717807454754,m3 water-.
+water depletion,ICEV-p,2024,powertrain,Small,0,15.59848323921932,m3 water-.
+water depletion,ICEV-p,2024,energy storage,Small,0,1.859488491250251,m3 water-.
+water depletion,ICEV-p,2024,energy chain,Small,0,7.463176121914089e-05,m3 water-.
+water depletion,ICEV-p,2024,maintenance,Small,0,7.422349413966584e-05,m3 water-.
+water depletion,ICEV-p,2024,EoL,Small,0,0.8431981345052374,m3 water-.
+water depletion,ICEV-p,2024,road,Small,0,0.00023745853152136985,m3 water-.
+water depletion,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,m3 water-.
+water depletion,ICEV-p,2024,direct - exhaust,Small,0,0.0,m3 water-.
+"GWP100a, incl. bio CO2",BEV,2024,glider,Small,0,8782.250162547161,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,powertrain,Small,0,2020.0381260086338,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,energy storage,Small,0,5889.460066629452,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,energy chain,Small,0,0.00228458348320463,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,maintenance,Small,0,0.009035418733749434,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,EoL,Small,0,1099.6287709621367,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,road,Small,0,0.01886457520004037,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+"GWP100a, incl. bio CO2",BEV,2024,direct - exhaust,Small,0,0.0,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,glider,Small,0,7432.901231550491,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,powertrain,Small,0,1777.8093793174505,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,energy storage,Small,0,92.37773816087801,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,energy chain,Small,0,0.02588853658355491,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,maintenance,Small,0,0.00712676191268635,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,EoL,Small,0,736.6773047126462,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,road,Small,0,0.016494609567701685,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,direct - non-exhaust,Small,0,0.0,kg CO2-Eq.
+"GWP100a, incl. bio CO2",ICEV-p,2024,direct - exhaust,Small,0,0.14368693607606303,kg CO2-Eq.
+noise emissions,BEV,2024,glider,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,powertrain,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,energy storage,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,energy chain,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,maintenance,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,EoL,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,road,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,direct - non-exhaust,Small,0,0.0,Person-Pascal.second
+noise emissions,BEV,2024,direct - exhaust,Small,0,1.6470995582473562e-06,Person-Pascal.second
+noise emissions,ICEV-p,2024,glider,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,powertrain,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,energy storage,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,energy chain,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,maintenance,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,EoL,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,road,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,Person-Pascal.second
+noise emissions,ICEV-p,2024,direct - exhaust,Small,0,2.0609727586420407e-06,Person-Pascal.second
+renewable primary energy,BEV,2024,glider,Small,0,17105.621226875486,megajoule
+renewable primary energy,BEV,2024,powertrain,Small,0,3768.37570950716,megajoule
+renewable primary energy,BEV,2024,energy storage,Small,0,26572.80278082713,megajoule
+renewable primary energy,BEV,2024,energy chain,Small,0,0.792886227300794,megajoule
+renewable primary energy,BEV,2024,maintenance,Small,0,0.020828768117249902,megajoule
+renewable primary energy,BEV,2024,EoL,Small,0,1561.847160734513,megajoule
+renewable primary energy,BEV,2024,road,Small,0,0.07924399293603891,megajoule
+renewable primary energy,BEV,2024,direct - non-exhaust,Small,0,0.0,megajoule
+renewable primary energy,BEV,2024,direct - exhaust,Small,0,0.0,megajoule
+renewable primary energy,ICEV-p,2024,glider,Small,0,14268.892652629196,megajoule
+renewable primary energy,ICEV-p,2024,powertrain,Small,0,2692.800560753206,megajoule
+renewable primary energy,ICEV-p,2024,energy storage,Small,0,199.66212008283452,megajoule
+renewable primary energy,ICEV-p,2024,energy chain,Small,0,0.03690378730790618,megajoule
+renewable primary energy,ICEV-p,2024,maintenance,Small,0,0.016428864635982778,megajoule
+renewable primary energy,ICEV-p,2024,EoL,Small,0,176.27743690190317,megajoule
+renewable primary energy,ICEV-p,2024,road,Small,0,0.07676668325797219,megajoule
+renewable primary energy,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,megajoule
+renewable primary energy,ICEV-p,2024,direct - exhaust,Small,0,0.0,megajoule
+non-renewable primary energy,BEV,2024,glider,Small,0,114727.99019762996,megajoule
+non-renewable primary energy,BEV,2024,powertrain,Small,0,24499.839238323922,megajoule
+non-renewable primary energy,BEV,2024,energy storage,Small,0,101077.6622428606,megajoule
+non-renewable primary energy,BEV,2024,energy chain,Small,0,0.023158948442265414,megajoule
+non-renewable primary energy,BEV,2024,maintenance,Small,0,0.18522146483708465,megajoule
+non-renewable primary energy,BEV,2024,EoL,Small,0,5345.726517569501,megajoule
+non-renewable primary energy,BEV,2024,road,Small,0,0.47054475864636014,megajoule
+non-renewable primary energy,BEV,2024,direct - non-exhaust,Small,0,0.0,megajoule
+non-renewable primary energy,BEV,2024,direct - exhaust,Small,0,0.0,megajoule
+non-renewable primary energy,ICEV-p,2024,glider,Small,0,97470.78487117247,megajoule
+non-renewable primary energy,ICEV-p,2024,powertrain,Small,0,22139.10396771244,megajoule
+non-renewable primary energy,ICEV-p,2024,energy storage,Small,0,2967.516091412567,megajoule
+non-renewable primary energy,ICEV-p,2024,energy chain,Small,0,2.385978246747549,megajoule
+non-renewable primary energy,ICEV-p,2024,maintenance,Small,0,0.1460949757737609,megajoule
+non-renewable primary energy,ICEV-p,2024,EoL,Small,0,935.6017686578504,megajoule
+non-renewable primary energy,ICEV-p,2024,road,Small,0,0.40897979405818274,megajoule
+non-renewable primary energy,ICEV-p,2024,direct - non-exhaust,Small,0,0.0,megajoule
+non-renewable primary energy,ICEV-p,2024,direct - exhaust,Small,0,0.0,megajoule
